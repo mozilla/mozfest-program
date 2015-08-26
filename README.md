@@ -1,10 +1,9 @@
 # mozfest-program
-Where we're reviewing and scheduling the Mozfest sessions. 
 
-Milestones are Mozfest Spaces
-Labels are Pathways within Space
-Issues are submitted sessions
+Head to this repository's issues, where the Mozfest program data is being reviewed and curated. 
 
-Assignee is the Leading Space Wrangler or Pathway Wrangler
+* Each space is represented in as a Github "milestone." It includes a description of your space.
+* Each pathway is a label. In addition to the label, there is a tracking ticket for each pathway to explain what that pathway sets out to achieve. Pathway tracking tickets can be assigned to wranglers or whomever on your team is responsible for the pathway's success.
+* Each session is a Github Issue. They can be easily labeled to be part of a pathway. You can also comment on them, edit them, and "close" them if they are not a good fit for Mozfest. 
 
-You can remove a label if you no longer want an issue/session to be allocated under your Pathway or Space. If a issue has no label it has NOT be allocated within a pathway or space and you can review for your Space.By closing an issue you are no longer considering this session for MozFest for your space or anyother area.
+Questions on how to use this tool or ideas to improve it? Email festival@mozilla.org. 
