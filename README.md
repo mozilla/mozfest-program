@@ -30,7 +30,7 @@ Questions on how to use this tool or ideas to improve it? Email festival@mozilla
 
 <h1>Getting Oriented</h1>
 
-<p><a href="http://i2.wp.com/michellethorne.cc/wp-content/uploads/mozfestmetro-ambassador.jpg"><img src="http://i2.wp.com/michellethorne.cc/wp-content/uploads/mozfestmetro-ambassador.jpg?resize=760%2C506" alt="mozfestmetro-ambassador" class="aligncenter size-full wp-image-2988 px"</a data-recalc-dims="1"></p>
+<p><a href="http://i2.wp.com/michellethorne.cc/wp-content/uploads/mozfestmetro-ambassador.jpg"><img src="http://i2.wp.com/michellethorne.cc/wp-content/uploads/mozfestmetro-ambassador.jpg" alt="mozfestmetro-ambassador" class="aligncenter size-full wp-image-2988 px" /></a></p>
 
 <p>When you first arrive at Mozfest, <strong>you&#8217;ll be greeted by a friendly ambassador.</strong> They will welcome you and talk to you about what you&#8217;d like to get out of the festival.</p>
 
