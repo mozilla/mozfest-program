@@ -1,13 +1,3 @@
-# Mozfest Program Respository!
-
-Head to this repository's issues, where the Mozfest program data is being reviewed and curated. 
-
-* Each space is represented in as a Github "milestone." It includes a description of your space.
-* Each pathway is a label. In addition to the label, there is a tracking ticket for each pathway to explain what that pathway sets out to achieve. Pathway tracking tickets can be assigned to wranglers or whomever on your team is responsible for the pathway's success.
-* Each session is a Github Issue. They can be easily labeled to be part of a pathway. You can also comment on them, edit them, and "close" them if they are not a good fit for Mozfest. 
-
-Questions on how to use this tool or ideas to improve it? Email festival@mozilla.org. 
-
 # Mozfest Pathways: It’s like the London Tube
 
 <p>To illustrate how <strong><a href="http://mozillafestival.org/">Mozfest</a> is evolving <a href="http://michellethorne.cc/2015/07/mozfest-retreat-and-participant-pathways/">its program to be more participant-centric,</a></strong> we thought to do quick, <strong>visual walk-through using the analogy of the London Underground.</strong></p>
@@ -101,4 +91,3 @@ Questions on how to use this tool or ideas to improve it? Email festival@mozilla
 <p>Consider <strong><a href="https://2015.mozillafestival.org/proposals">proposing a session for Mozfest</a></strong> or just <strong><a href="https://2015.mozillafestival.org/tickets">grabbing a ticket</a></strong> and join us over the weekend.</p>
 
 <p><small>Images by: <a href="http://payload93.cargocollective.com/1/1/41290/4177126/Flowroutes_illustration2.png">Payload93</a>, <a href="http://www.jrcdesign.com/jrcdesignblog/wp-content/uploads/2011/05/at12-550x3091.jpg">JRC Design</a>, <a href="https://railwayadventure.files.wordpress.com/2011/04/kings-cross-stitch-in-2.jpg">Rail Adventure</a>, <a href="http://4.bp.blogspot.com/-whKtPvCryl0/UOxsYLG4kjI/AAAAAAAAAbs/mrXWV1xhS5E/s1600/Google+Doodle+London+Underground.jpg">Google Doodle</a>, <a href="https://midlandstrade.files.wordpress.com/2014/12/14410646848_d89b95d0d1_o.jpg">Midlandstande</a>.</small></p>
-			
