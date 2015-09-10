@@ -1,25 +1,52 @@
 # Mozfest 2015 Program on Github!
 
-Head to this repository's issues, where the Mozfest program data is being reviewed and curated. 
+Head to this repository's issues, where the Mozfest program data is being reviewed and curated. Questions on how to use this tool or ideas to improve it? Email festival@mozilla.org.
 
-## Cheatsheet
+## Overview 
 
-* All the Mozfest program data is in the ["Issues"](https://github.com/mozilla/mozfest-program/issues) section of this Github repository. 
-* Each space is represented as a Github ["milestone"](https://github.com/mozilla/mozfest-program/milestones). Each milestone includes description of its respective space. Click "(more)" in Issues > Milestones to see the details of a space. 
-* Each pathway is represented as a Github ["label."](https://github.com/mozilla/mozfest-program/labels). You can add new labels. Labels can be applied to sessions (i.e. individual Github issues) to indicate that the session is part of that pathway. 
-* Each session is a [Github Issue](https://github.com/mozilla/mozfest-program/issues). They can be easily labeled to be part of a pathway. You can also comment on them, edit them, and "close" them if they are not a good fit for Mozfest. 
+All the Mozfest program data is in the ["Issues"](https://github.com/mozilla/mozfest-program/issues) section of this Github repository. This is a brief tutorial to help you, member of the Mozfest program team, get started with Github Issues.
 
-Questions on how to use this tool or ideas to improve it? Email festival@mozilla.org. 
+### Spaces
 
-# How to use Github Issues to curate Mozfest
+Each space is represented as a Github ["milestone"](https://github.com/mozilla/mozfest-program/milestones). Each milestone includes description of its respective space. 
+
+<img src="assets/img/tutorial-spaces.png">
+
+Click "(more)" in Issues > Milestones to see the details of a space. 
+
+<img src="assets/img/tutorial-spaces-details.png">
+
+You can edit the description of your space at any time. 
+
+You can click on the name of a space to see all the associated pathways and sessions. You can modify sessions to be part of your space by adding them to the appropriate "milestone."
+
+### Pathways
+
+Each pathway is represented as a Github ["label."](https://github.com/mozilla/mozfest-program/labels). You can add new labels, change the color and change the name:   
+
+<img src="assets/img/tutorial-labels.png">
+
+Labels can be applied to sessions (i.e. individual Github issues) to indicate that the session is part of that pathway. You can then search for and see all the sessions that are part of that pathway. There's not limit to the number of labels you can apply to a session. That's great -- we love things that are cross-listed. 
+
+<img src="assets/img/tutorial-pathway-list.png">
+
+Ideally, each pathway also has what's called a "tracking issue" that provides more information about the pathway. 
+
+<img src="assets/img/tutorial-pathway-details.png">
+
+
+### Sessions
+
+Each session is a [Github Issue](https://github.com/mozilla/mozfest-program/issues). They can be easily labeled to be part of a pathway. You can also comment on them, edit them, and "close" them if they are not a good fit for Mozfest. 
+
+<img src="assets/img/tutorial-spaces.png">
 
 ## Overview
 
 This year we're using Github to manage, review and curate sessions for Mozfest. This tool will allow us to better collaborate and coordinate across the program, as well as provide a record for how the program came together. 
 
 It is new for us to use Github Issues in this way, but based on some other events who've used it effectively, we think it's a great solution for Mozfest. 
-
-This is a brief tutorial to help you, member of the Mozfest program team, get started with Github Issues. 
+ 
 
 We are here to help in case you get stuck or need help at anytime. Don't worry -- you can't break anything! 
 
@@ -46,28 +73,6 @@ The Mozfest team will offer support for you to use Github Issues in the followin
 * **This tutorial!** Is there anything missing or unclear? Let us know how to improve it by emailing: festival@mozilla.org
 * **Orientations on the Mozfest program call.** During our regular weekly calls, we will walk the group through the major features and workflows in Github Issues. We'll answer questions and troubleshoot. 
 * **1:1 Conversations.** We'll also offer timeslots for anyone interested in having a more in-depth conversation about how to use Github Issues effectively. In addition, we'll be available for any urgent Github questions via email (festival@mozilla.org), Twitter (#mozfest) or on Skype.
-
-## Three Program Elements and how they show up on Github Issues
-
-### Spaces
-
-Each space is represented as a Github ["milestone"](https://github.com/mozilla/mozfest-program/milestones). Each milestone includes description of its respective space. Click "(more)" in Issues > Milestones to see the details of a space.
-
-<img src="assets/img/tutorial-spaces.png">
-<img src="assets/img/tutorial-spaces-details.png">
-
-### Pathways
-
-Each pathway is represented as a Github ["label."](https://github.com/mozilla/mozfest-program/labels). You can add new labels. Labels can be applied to sessions (i.e. individual Github issues) to indicate that the session is part of that pathway. 
-
-<img src="assets/img/tutorial-labels.png">
-<img src="assets/img/tutorial-pathway-details.png">
-
-### Sessions
-
-Each session is a [Github Issue](https://github.com/mozilla/mozfest-program/issues). They can be easily labeled to be part of a pathway. You can also comment on them, edit them, and "close" them if they are not a good fit for Mozfest. 
-
-<img src="assets/img/tutorial-spaces.png">
 
 ## How to review sessions
 
