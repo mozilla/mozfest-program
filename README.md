@@ -41,7 +41,7 @@ Each session is a [Github Issue](https://github.com/mozilla/mozfest-program/issu
 
 <img src="assets/img/tutorial-spaces.png">
 
-## Overview
+## Why we're using Github Issues for Mozfest
 
 This year we're using Github to manage, review and curate sessions for Mozfest. This tool will allow us to better collaborate and coordinate across the program, as well as provide a record for how the program came together. 
 
@@ -76,18 +76,23 @@ The Mozfest team will offer support for you to use Github Issues in the followin
 
 ## How to review sessions
 
-[in progress] guidelines for choosing, cc yourself if you like it, cc'ing others, when do you assign yourself. 
+Be mindful about what you comment. People who are submitting a session are putting themselves out there. We are invested in ensuring they have a good experience with us, regardless whether their session is accepted or not. Let's be respective and constructive. 
 
-### Keep
-### Tweak
-### Hack
-### Deny
+Also note: This is a public Github repo. If you need to say something sensitive about a session or a facilitator, you can use the sessions@ mailing list.
 
-## How to update your space
+* 1. Read through the sessions. You can search for key words. 
+* 2. Signal your interest in the sessions you want to take on: 
+** A. Apply a pathway label to indicate you want to include it in your pathway. A session can have multiple labels. 
+** B. Apply your space milestone to all your pathways and sessions that you want  included within your space. Note: in Github, a session can only be assigned to one space milestone. 
+** C. CC yourself in the comment section of a session if you want to be notified about changes to this session and otherwise be involved in deciding to keep or tweak it. 
 
-## How to update your pathway
+* 3. Accepting and declining sessions.
+** **How to accept a session:** Add a pathway label and/or space milestone. This indicates you are taking responsibility for the session's inclusion and success at Mozfest. The issue will remain open.
+** **How to suggest declining a session:** Any session issue that is unlabeled and without a space milestone will be perceived as not accepted for this year's festival. 
 
-## Etiquette
+After September 30 if the session remains unlabeled and without a space milestone, the issue will be closed by the Mozfest team. The session facilitator will be notified by the program team that their session has not be accepted to Mozfest.
 
 ## Improving this process
+
+Ideas? Let us know: festival@mozilla.org. 
 		
